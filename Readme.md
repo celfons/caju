@@ -16,8 +16,7 @@ Este projeto é uma API desenvolvida em Kotlin utilizando o Spring Boot, que aut
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/authorizer-api.git
-   cd authorizer-api
+   git clone https://github.com/celfons/caju.git
 
 2. Compile e rode a aplicação
    ```bash 
